@@ -17,4 +17,4 @@ The aim of the project was to build up a simple [agent based model](https://en.w
 
 As you can see from picture below (Figure 1), this produced a very basic model. 
 ![alt text](ABM1.PNG)
-Figure 1: A simple ABM - produced from the practical sessions in GEOG5990M - Programming for GIS: Core Skills.
+### Figure 1: A simple ABM - produced from the practical sessions in GEOG5990M - Programming for GIS: Core Skills.
