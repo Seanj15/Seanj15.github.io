@@ -24,27 +24,7 @@ As you can see from picture below (Figure 1), this produced a very basic model.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Figure 1: A simple ABM - produced from the practical sessions in GEOG5990M - Programming for GIS: Core Skills.
+
+### Enhancements to the model
+
