@@ -51,6 +51,6 @@ To run the model:
 The model can be found in this [repository](https://github.com/Seanj15/FinalAGM).
 Here you will find three files:
 - **model.8.py** = a file than contains the core of the code.
-- **agentframework.py** = a file that initialises the agents in a random location, and moves them.
+- **agentframework6.py** = a file that initialises the agents in a random location, and moves them.
 - **in.txt** = a file containing raster data which is used as the agents environment.
 
