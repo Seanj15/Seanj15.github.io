@@ -3,7 +3,7 @@ title: ABM
 ---
 ## GEOG5990M - Programming for GIS: Core Skills 
 ### Assessment 1 - Agent-Based Model
-This part of the online portfolio contains the [final agent-based model](https://github.com/Seanj15/FinalAGM) produced for the ['*GEOG5990M - Programming for GIS: Core Skills*'](https://www.geog.leeds.ac.uk/courses/computing/) course at the University of Leeds. The model has been coded in python, using an open source cross-platform IDE called '*Spyder*' (downloaded as part of the [Anaconda Distribution](https://www.anaconda.com/distribution/)). 
+This part of the online portfolio contains the [final agent-based model](https://github.com/Seanj15/GEOG5990M-Assessment-1) produced for the ['*GEOG5990M - Programming for GIS: Core Skills*'](https://www.geog.leeds.ac.uk/courses/computing/) course at the University of Leeds. The model has been coded in python, using an open source cross-platform IDE called '*Spyder*' (downloaded as part of the [Anaconda Distribution](https://www.anaconda.com/distribution/)). 
 ### About the model
 The aim of the project was to build up a simple [agent based model](https://en.wikipedia.org/wiki/Agent-based_model) (ABM) to simulate sheep (agents) grazing in an environment. At a basic level the ABM:
 - builds an agent in space;
@@ -48,7 +48,7 @@ To run the model:
 - If you want to stop the model, select "*Quit*" and close both windows.
 
 ### Link to the model
-The model can be found in this [repository](https://github.com/Seanj15/FinalAGM).
+The model can be found in this [repository](https://github.com/Seanj15/GEOG5990M-Assessment-1).
 Here you will find three files:
 - **model.8.py** = a file than contains the core of the code.
 - **agentframework6.py** = a file that initialises the agents in a random location, and moves them.
