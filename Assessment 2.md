@@ -5,7 +5,7 @@ title: Assessment 2
 ### Assessment 2 - Drunk Model
 This part of the online portfolio contains the [independent project](https://github.com/Seanj15/Assessment-2-) produced for the ['*GEOG5990M - Programming for GIS: Core Skills*'](https://www.geog.leeds.ac.uk/courses/computing/) course at the University of Leeds. The model has been coded in python, using an open source cross-platform IDE called '*Spyder*' (downloaded as part of the [Anaconda Distribution](https://www.anaconda.com/distribution/)). 
 ### About the model
-The aim of the project was to build up a simple model, application or analysis from scratch. I chose to select the ['Planning for drunks'](https://github.com/Seanj15/Assessment-2-) project from Andy Turner's list of project ideas. Here, the aim was to build a model that monitors the movement of drunk people, as they leave a pub in the centre of a town (environment) and attempt to navigate their way home.  At a basic level, the model does the following:
+The aim of the project was to build up a simple model, application or analysis from scratch. I chose to select the ['Planning for drunks'](https://www.geog.leeds.ac.uk/courses/computing/study/core-python/assessment2/drunk.html) project from Andy Turner's list of project ideas. Here, the aim was to build a model that monitors the movement of drunk people, as they leave a pub in the centre of a town (environment) and attempt to navigate their way home.  At a basic level, the model does the following:
 - Pulls in a (‘drunk.plan’) data file and finds out the pub point and the home points.
 - Draws the pub and homes on the screen.
 - Models the drunks leaving the pub and reaching their homes, and stores how many drunks pass through each point on the map.
